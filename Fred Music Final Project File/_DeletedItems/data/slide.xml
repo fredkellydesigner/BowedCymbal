@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "slide">
+	<slot number = "1">
+		<pattr name = "angle" value = "0.92" />
+		<pattr name = "noisegain" value = "0.262" />
+		<pattr name = "vibfreq" value = "8.8" />
+		<pattr name = "vibgain" value = "0.2" />
+		<pattr name = "breath" value = "0.68" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "angle" value = "0.66" />
+		<pattr name = "noisegain" value = "0.262" />
+		<pattr name = "vibfreq" value = "8.8" />
+		<pattr name = "vibgain" value = "0.2" />
+		<pattr name = "breath" value = "0.9" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "angle" value = "1." />
+		<pattr name = "noisegain" value = "0." />
+		<pattr name = "vibfreq" value = "3.46" />
+		<pattr name = "vibgain" value = "0.35" />
+		<pattr name = "breath" value = "0.52" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "angle" value = "0.96" />
+		<pattr name = "noisegain" value = "0.82" />
+		<pattr name = "vibfreq" value = "4.697" />
+		<pattr name = "vibgain" value = "0.125" />
+		<pattr name = "breath" value = "0.8" />
+	</slot>
+</pattrstorage>
+

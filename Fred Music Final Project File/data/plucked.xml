@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "plucked">
+	<slot number = "1">
+		<pattr name = "stretch" value = "6.8" />
+		<pattr name = "position" value = "111.9" />
+		<pattr name = "sustain" value = "14." />
+		<pattr name = "drive" value = "6.9" />
+		<pattr name = "ring" value = "0.26" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "stretch" value = "5." />
+		<pattr name = "position" value = "25." />
+		<pattr name = "sustain" value = "127." />
+		<pattr name = "drive" value = "5.9" />
+		<pattr name = "ring" value = "0.09" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "stretch" value = "9.5" />
+		<pattr name = "position" value = "70.4" />
+		<pattr name = "sustain" value = "52.4" />
+		<pattr name = "drive" value = "7.93" />
+		<pattr name = "ring" value = "0.5" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "stretch" value = "4.5" />
+		<pattr name = "position" value = "107.3" />
+		<pattr name = "sustain" value = "127." />
+		<pattr name = "drive" value = "5.43" />
+		<pattr name = "ring" value = "0.28" />
+	</slot>
+</pattrstorage>
+
